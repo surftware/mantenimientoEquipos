@@ -1,0 +1,32 @@
+p{
+    color:purple;
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+img{
+    
+    width: 200px;
+    height: 200px;
+    border-radius:50px;
+}
+
+iframe{
+    display:block;
+    margin:auto;
+    width:560px;
+    height:315px;
+
+}
+
+div{
+    display:block;
+    margin:auto;
+    width:46%;
+}
